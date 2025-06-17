@@ -1,0 +1,114 @@
+CONTEXT: Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+QUESTION: What is in front of the Main Building?
+ANSWER: a copper statue of Christ
+
+QUESTION: What is the Grotto at Notre Dame?
+ANSWER: a Marian place of prayer and reflection
+
+QUESTION: What sits on top of the Main Building at Notre Dame?
+ANSWER: a golden statue of the Virgin Mary
+
+================================================================================
+
+CONTEXT: The University of Notre Dame du Lac is a Catholic research university located in Notre Dame, Indiana, an unincorporated community north of the city of South Bend, in St. Joseph County, Indiana. The main campus covers 1,250 acres in a suburban setting and contains a number of recognizable landmarks, such as the Golden Dome, the "Word of Life" mural (commonly known as Touchdown Jesus), Notre Dame Stadium, and the Basilica. The school was founded on November 26, 1842, by Father Edward Sorin, CSC, who was also its first president.
+
+QUESTION: Who founded Notre Dame?
+ANSWER: Father Edward Sorin, CSC
+
+QUESTION: What is the official name of the mural that is commonly known as "Touchdown Jesus"?
+ANSWER: "Word of Life"
+
+QUESTION: When was Notre Dame founded?
+ANSWER: November 26, 1842
+
+================================================================================
+
+CONTEXT: As of 2014, the university is organized into seven components. It consists of the College of Arts and Letters, the College of Science, the Mendoza College of Business, the College of Engineering, the College of Architecture, the Law School, and the Graduate School. The College of Arts and Letters, founded in conjunction with the university in 1842, is the largest of the colleges. The university's graduate programs were reorganized in 1918 and the Graduate School was established. The first professional degree offered at the university was a law degree (LL.B.) in 1869, and the School of Law was established as a distinct school in 1925.
+
+QUESTION: What is the oldest college at Notre Dame?
+ANSWER: The College of Arts and Letters
+
+QUESTION: How many schools is Notre Dame organized into?
+ANSWER: seven
+
+QUESTION: When was the Law School established as a distinct school?
+ANSWER: 1925
+
+================================================================================
+
+CONTEXT: The phrase "climate change" is used to refer to a change in the climate, which is a result of human activity, as opposed to "climate variability," which refers to changes that might be a result of external or natural factors. However, the United Nations Framework Convention on Climate Change (UNFCCC) uses "climate change" to refer to a change in climate that is a result of human activity and "climate variability" to refer to a change in climate that is a result of natural causes.
+
+QUESTION: What does the UNFCCC use the phrase "climate variability" for?
+ANSWER: a change in climate that is a result of natural causes
+
+QUESTION: How does the UNFCC define "climate change"?
+ANSWER: a change in climate that is a result of human activity
+
+================================================================================
+
+CONTEXT: In the 1880s, football and baseball were the two most popular sports on campus. The first-ever football game was played in 1887 against the University of Michigan, and the first home game was played against Harvard in 1889. The first-ever interhall football game was played in 1889. The first-ever varsity football game was played in 1893. The first-ever varsity basketball game was played in 1898. The first-ever varsity hockey game was played in 1912.
+
+QUESTION: What two sports were most popular in the 1880's?
+ANSWER: football and baseball
+
+QUESTION: When was the first football game?
+ANSWER: 1887
+
+QUESTION: What year was the first interhall football game?
+ANSWER: 1889
+
+================================================================================
+
+CONTEXT: The College of Engineering was established in 1897. The College of Commerce (today the Mendoza College of Business) was established in 1921. The Graduate School was established in 1918. The Law School was established in 1925. The College of Science was established in 1964.
+
+QUESTION: When was the College of Commerce established?
+ANSWER: 1921
+
+QUESTION: When was the Graduate School established?
+ANSWER: 1918
+
+QUESTION: When was the College of Engineering established?
+ANSWER: 1897
+
+================================================================================
+
+CONTEXT: The Amazon basin is the part of South America drained by the Amazon River and its tributaries. The Amazon drainage basin covers an area of about 7,500,000 km2 (2,900,000 sq mi), or roughly 40 percent of the South American continent. It is located in the countries of Bolivia, Brazil, Colombia, Ecuador, Guyana, Peru, Suriname and Venezuela. Most of the basin is covered by the Amazon rainforest, also known as Amazonia. With a 5,500,000 km2 (2,100,000 sq mi) area of dense tropical forest, this is the largest rainforest in the world.
+
+QUESTION: Which is the largest rainforest in the world?
+ANSWER: Amazon rainforest
+
+QUESTION: How much of South America is covered by the Amazon drainage basin?
+ANSWER: 40 percent
+
+================================================================================
+
+CONTEXT: A supercomputer is a computer with a high level of performance compared to a general-purpose computer. Performance of a supercomputer is commonly measured in floating-point operations per second (FLOPS) instead of million instructions per second (MIPS). Since 2017, there are supercomputers which can perform over 1017 FLOPS (a hundred quadrillion FLOPS, 100 petaFLOPS). Since November 2017, all of the world's fastest 500 supercomputers run Linux-based operating systems.
+
+QUESTION: What is used to measure a supercomputer's performance?
+ANSWER: floating-point operations per second (FLOPS)
+
+QUESTION: What operating system do the world's fastest 500 supercomputers use?
+ANSWER: Linux-based operating systems
+
+================================================================================
+
+CONTEXT: The PlayStation (officially abbreviated as PS) is a series of video game consoles created and developed by Sony Interactive Entertainment. The brand was first introduced on December 3, 1994 in Japan with the launch of the original PlayStation console. It now consists of four home video game consoles, as well as a media center, an online service, a line of controllers, two handhelds and a phone, as well as multiple magazines.
+
+QUESTION: Who develops the PlayStation?
+ANSWER: Sony Interactive Entertainment
+
+QUESTION: When was the original PlayStation first released?
+ANSWER: December 3, 1994
+
+================================================================================
+
+CONTEXT: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were a people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Gallo-Roman populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the centuries.
+
+QUESTION: The Normans were descended from what group of people?
+ANSWER: Norse
+
+QUESTION: Who was the leader of the Norse people who gave their name to Normandy?
+ANSWER: Rollo
+
+================================================================================
